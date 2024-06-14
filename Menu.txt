@@ -1,25 +1,77 @@
-Whiskey 7
-Cervjea 6
-Rum 7
-Gim 6
-Vodka 5
-Refrigerante 5
-Suco 8
-Drinks 13
-Água 4
-Café 6
-Croissant 6
-Pão-de-Queijo 4.5
-Torrada-com-Avocado 12
-Torta-de-frango 9
-Bolo-de-Cenoura 7
-Quiche-de-Espinafre-com-Queijo 15
-Sanduíche-de-Frango-Grelhado 18
-Salada-de-Caesar-com-Frango 20
-Crepe-de-presunto-e-queijo 17
-Risoto-de-Cogumelos 22
-Cheesecake-de-Frutas-Vermelhas 12
-Brownie-de-Chocolate-com-Sorvete 10
-Tiramisu 14
-Torta-de-Limão 9
-Mousse-de-Maracujá 8
+Bebidas Cafés-Especiais Espresso 5.0
+Bebidas Cafés-Especiais Café-Latte 8.0
+Bebidas Cafés-Especiais Cappuccino 9.0
+Bebidas Cafés-Especiais Macchiato 7.0
+Bebidas Chás-e-Infusões Chá-Preto-com-Limão 6.0
+Bebidas Chás-e-Infusões Chá-verde 6.0
+Bebidas Chás-e-Infusões Chá-de-Camomila 6.0
+Bebidas Chás-e-Infusões Infusão-de-Frutas 7.0
+Bebidas Bebidas-Geladas Chá-Gelado 6.0
+Bebidas Bebidas-Geladas Frappuccino 12.0
+Bebidas Bebidas-Geladas Smoothie-de-Frutas-Vermelhas 12.0
+Bebidas Bebidas-Geladas Lemonade-com-Hortelã 8.0
+Bebidas Bebidas-à-Base-de-Leite Chocolate-Quente-Cremoso 10.0
+Bebidas Bebidas-à-Base-de-Leite Leite-com-Mel 6.0
+Bebidas Bebidas-à-Base-de-Leite Matcha-Latte 9.0
+Bebidas Bebidas-à-Base-de-Leite Leite-com-Canela 6.0
+Bebidas Sucos-Naturas-e-Vitaminas Suco-de-Laranja-Natural 7.0
+Bebidas Sucos-Naturas-e-Vitaminas Suco-de-Morango-com-Laranja 8.0
+Bebidas Sucos-Naturas-e-Vitaminas Vitamina-de-Banana-com-Aveia 9.0
+Bebidas Sucos-Naturas-e-Vitaminas Suco-de-Abacaxi-com-Hortelã 7.0
+Entradas Salgados-Assados Pão-de-Queijo 4.0
+Entradas Salgados-Assados Empanada-de-Frango 6.0
+Entradas Salgados-Assados Esfiha-de-Carne 5.0
+Entradas Salgados-Assados Croissant-de-Presunto-e-Queijo 7.0
+Entradas Sanduíches-e-Wraps Sanduíche-de-Frango-com-Cream-Cheese 10.0
+Entradas Sanduíches-e-Wraps Sanduíche-de-Atum 10.0
+Entradas Sanduíches-e-Wraps Wrap-de-Vegetais-com-Hummus 12.0
+Entradas Sanduíches-e-Wraps Sanduíche-Caprese 11.0
+Entradas Saladas-e-Bowls Salada-Caesar 15.0
+Entradas Saladas-e-Bowls Bowl-de-Quinoa-com-Legumes 18.0
+Entradas Saladas-e-Bowls Salada-de-Frutas 12.0
+Entradas Saladas-e-Bowls Salada-de-Grão-de-Bico-com-Abacate 16.0
+Entradas Tortas-e-Quiches Quiche-de-Alho-Poró 14.0
+Entradas Tortas-e-Quiches Torta-de-Palmito 14.0
+Entradas Tortas-e-Quiches Quiche-Lorraine 15.0
+Entradas Tortas-e-Quiches Torta-de-Espinafre-com-Ricota 14.0
+Entradas Aperitivos-e-Petiscos Bruschetta-de-Tomate 8.0
+Entradas Aperitivos-e-Petiscos Palitinhos-de-Cenoura-e-Pepino-com-Molho-de-Iogurte 7.0
+Entradas Aperitivos-e-Petiscos Bolinho-de-Bacalhau-(porção) 12.0
+Entradas Aperitivos-e-Petiscos Mini-Pastel-de-Queijo-(porção) 10.0
+Pratos-Principais Massas-e-Risotos Fettuccine-Alfredo 25.0
+Pratos-Principais Massas-e-Risotos Lasanha-de-Carne 28.0
+Pratos-Principais Massas-e-Risotos Risoto-de-Funghi 30.0
+Pratos-Principais Massas-e-Risotos Spaghetti-ao-Pesto 24.0
+Pratos-Principais Carnes-e-Aves Filé-de-Frango-Grelhado-com-Legumes 26.0
+Pratos-Principais Carnes-e-Aves Bife-à-Parmegiana-com-Arroz-e-Batatas-Fritas 32.0
+Pratos-Principais Carnes-e-Aves Filé-Mignon-com-Purê-de-Batatas 40.0
+Pratos-Principais Carnes-e-Aves Tiras-de-Carne-com-Molho-de-Mostarda-e-Mel 28.0
+Pratos-Principais Peixes-e-Frutos-do-Mar Salmão-Grelhado-com-Aspargos 35.0
+Pratos-Principais Peixes-e-Frutos-do-Mar Moqueca-de-Peixe 38.0
+Pratos-Principais Peixes-e-Frutos-do-Mar Camarão-ao-Olho-e-Óleo 34.0
+Pratos-Principais Peixes-e-Frutos-do-Mar Tilápia-Empanada-com-Salada-de-Quinoa 30.0
+Pratos-Principais Vegetarianos-e-Veganos Hambúrguer-de-Grão-de-Bico-com-Batata-Doce 22.0
+Pratos-Principais Vegetarianos-e-Veganos Lasanha-de-Berinjela 24.0
+Pratos-Principais Vegetarianos-e-Veganos Tofu-Grelhado-com-Vegetais 20.0
+Pratos-Principais Vegetarianos-e-Veganos Curry-de-Legumes-com-Arroz-Integral 26.0
+Pratos-Principais Pratos-Regionais Feijoada-Completa 28.0
+Pratos-Principais Pratos-Regionais Baião-de-Dois 26.0
+Pratos-Principais Pratos-Regionais Escondidinho-de-Carne-Seca 24.0
+Pratos-Principais Pratos-Regionais Galinhada 25.0
+Sobremesas Tortas-e-Bolos Torta-de-Limão 10.0
+Sobremesas Tortas-e-Bolos Bolo-de-Cenoura-com-Cobertura-de-Chocolate 8.0
+Sobremesas Tortas-e-Bolos Cheesecake-com-Caldo-de-Frutas-Vermelhas 12.0
+Sobremesas Tortas-e-Bolos Bolo-de-Chocolate 9.0
+Sobremesas Doces-Tradicionais Pudim-de-Leite-Condensado 8.0
+Sobremesas Doces-Tradicionais Brigadeiro-Gourmet-(porção) 6.0
+Sobremesas Doces-Tradicionais Quindim 7.0
+Sobremesas Doces-Tradicionais Cocada-Cremosa 6.0
+Sobremesas Frutas-e-Saladas-de-Frutas Salada-de-Frutas 10.0
+Sobremesas Frutas-e-Saladas-de-Frutas Abacaxi-com-Hortelã 8.0
+Sobremesas Frutas-e-Saladas-de-Frutas Banana-Split 14.0
+Sobremesas Frutas-e-Saladas-de-Frutas Frutas-da-Estação-com-Mel 10.0
+Sobremesas Sobremesas-Internacionais Tiramisu 12.0
+Sobremesas Sobremesas-Internacionais Crème-Brûlée 14.0
+Sobremesas Sobremesas-Internacionais Brownie-com-Sorvetes 15.0
+Sobremesas Sobremesas-Internacionais Churros-com-Doce-de-Leite 10.0
+Pratos-Principais Pratos-Regionais Feijoada 35.0
